@@ -1,3 +1,3 @@
 # azure-blob-gzip-adapter
 
-Credits - [Charush S](www.linkedin.com/in/charush)
+Credits - [Charush S](https://www.linkedin.com/in/charush)
